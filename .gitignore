@@ -1,0 +1,11 @@
+*~
+*.swp
+
+.classpath
+.project
+
+/bin/lib/Temp*.class
+/libs/Temp*.groovy
+
+Reports/
+/bin/
