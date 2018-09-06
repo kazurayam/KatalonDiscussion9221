@@ -4,7 +4,7 @@
    <name>TS4_imageDiffer</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-09-06T09:44:13</lastRun>
+   <lastRun>2018-09-06T10:27:10</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
